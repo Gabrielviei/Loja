@@ -16,7 +16,7 @@ body{
     align-items: center;
     background-color: #434343;
 }
-button :hover{
+.botao:hover{
     background-color: #85858567;
 }
 
