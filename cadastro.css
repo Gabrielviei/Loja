@@ -61,14 +61,35 @@ body{
     border-bottom: 1px solid black;
 }
 .senha input{
-    width: 300px;
+    width: 270px;
     height: 40px;
+}
+.senha2{
     border-bottom: 1px solid black;
 }
+.senha2{
+    display: flex;
+}
+.senha2 img{
+    width: 20px;
+    height: 20px;
+
+}
 .confirmar-senha input{
-    width: 300px;
+    width: 270px;
     height: 40px;
+}
+
+.confirmar-senha2{
     border-bottom: 1px solid black;
+}
+.confirmar-senha2{
+    display: flex;
+}
+.confirmar-senha2 img{
+    width: 20px;
+    height: 20px;
+
 }
 
 .avancar input{

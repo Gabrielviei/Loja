@@ -28,3 +28,25 @@
         alert("fez merda");
     }
     }
+
+    function mostrarSenha() {
+        var passwordField = document.getElementById("senha");
+        if (passwordField.type === "password") {
+            passwordField.type = "text";
+    
+        } else {
+            passwordField.type = "password";
+    
+        }
+    }
+
+    function mostrarConfirmar() {
+        var passwordField = document.getElementById("confirmar-senha");
+        if (passwordField.type === "password") {
+            passwordField.type = "text";
+    
+        } else {
+            passwordField.type = "password";
+    
+        }
+    }
