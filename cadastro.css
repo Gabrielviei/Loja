@@ -61,7 +61,7 @@ body{
     border-bottom: 1px solid black;
 }
 .senha input{
-    width: 270px;
+    width: 300px;
     height: 40px;
 }
 .senha2{
@@ -76,7 +76,7 @@ body{
 
 }
 .confirmar-senha input{
-    width: 270px;
+    width: 300px;
     height: 40px;
 }
 
